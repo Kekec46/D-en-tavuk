@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.3" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="defaultPackage.Target" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Target.java" binary="false" label="target" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="defaultPackage.Launcher" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Launcher.java" binary="false" label="launcher" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="3" language="java" name="defaultPackage.KeyManager" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/KeyManager.java" binary="false" label="keyManager" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="4" language="java" name="defaultPackage.ImageLoader" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/ImageLoader.java" binary="false" label="imageLoader" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="5" language="java" name="defaultPackage.Game" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Game.java" binary="false" label="game" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="6" language="java" name="defaultPackage.Egg" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Egg.java" binary="false" label="egg" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="7" language="java" name="defaultPackage.Display" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Display.java" binary="false" label="display" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="8" language="java" name="defaultPackage.Chicken" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Chicken.java" binary="false" label="chicken" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="9" language="java" name="defaultPackage.Cat" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Cat.java" binary="false" label="cat" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="10" language="java" name="defaultPackage.Background" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Background.java" binary="false" label="background" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>  
+  <object id="11" language="java" name="defaultPackage.Assets" project="Falling Chicken" 
+    file="/Falling Chicken/src/defaultPackage/Assets.java" binary="false" label="assets" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="141" y="0"/>  
+  </object>
+</sequence-diagram>
